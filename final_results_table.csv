@@ -1,0 +1,10 @@
+Phase,Backbone,Test Acc (mean),Test F1 (mean),Std Acc,Std F1
+Phase 2 -- MLP (38-dim hand-crafted),MLP sklearn,0.4774,0.1616,n/a,n/a
+Phase 3 -- EfficientNet-B0 CNN,EfficientNet-B0,0.7958,0.7988,~0.005,~0.006
+Phase 4 -- EfficientNet-B0 + TTA,EfficientNet-B0 + TTA(5),0.8158,0.8188,~0.003,~0.004
+Phase 5 -- Final model (3 seeds),EfficientNet-B0,0.8258,0.8288,0.0139,0.0119
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
