@@ -143,9 +143,7 @@ The model is evaluated using:
 
 ## Author
 
-Abu Yasir
-Shafaq Zaman
-Kulsoom
+Abu Yasir | Shafaq Zaman | Kulsoom
 
 ## License
 
